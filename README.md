@@ -17,9 +17,9 @@ Trying to create a more human-like colorbot, with overshooting/undershooting, os
    - Download arduino_mouse.ino and upload it to your arduino leonardo, make sure you are able to move your mouse around when it is plugged into the hostshield
    - Make sure to import "USB Host Shield Library 2.0" in your Arduino IDE
 
-  2. **Configure**
+   **Configure**
    - Configure config.json depending on your in game sensitivity and other parameters like color target (Default is purple).
-  3. **Run the colorbot**
+   **Run the colorbot**
      - run the colorbot by running
        ```bash
        python main.py
