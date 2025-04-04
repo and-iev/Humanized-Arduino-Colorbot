@@ -2,11 +2,11 @@
 **This was never meant to be undetected, you would need to take additional steps if you wanted to make it UD. This was created for educational purposes only, and is missing vital functionality like triggerbot.**
 
 # Goal
-Trying to create a more human-like colorbot, with overshooting/undershooting, oscillation, and human like target prioritization. Using external mouse movement method to bypass AC. Using different mathematical and physics applications some of which include moments, proportional gain, and derivative gain.
+Trying to create a more human-like colorbot, with overshooting/undershooting, oscillation, and human like target prioritization. Incorporating an external mouse movement techniqure method to bypass ACs (AntiCheats). Using different mathematical and physial applications some of which include moments of centers of mass, proportional gain, and derivative gain.
 
  ## Pre-Setup intstructions;
  - You will need an Arduino Leonardo as well as a USB hostshield
- - - Once you have procured the aforementioned items you will need to solder 1 3.3V and 2 5V pads on the hostshield.
+ - Once you have procured the aforementioned items you will need to solder 1 3.3V and 2 5V pads on the hostshield.
 
    ## Steup instructions
    **Install necessary files**
