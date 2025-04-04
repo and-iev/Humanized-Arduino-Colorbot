@@ -4,7 +4,7 @@
 # Goal
 Trying to create a more human-like colorbot, with overshooting/undershooting, oscillation, and human like target prioritization. Incorporating an external mouse movement technique method to bypass ACs (AntiCheats). Attempts at humanization were achieve through different mathematical and physial applications some of which include moments of centers of mass, proportional gain, and derivative gain.
 
- ## Pre-Setup intstructions;
+ ## Pre-Setup intstructions
  - You will need an Arduino Leonardo as well as a USB hostshield
  - Once you have procured the aforementioned items you will need to solder 1 3.3V and 2 5V pads on the hostshield.
 
