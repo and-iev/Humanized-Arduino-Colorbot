@@ -1,0 +1,22 @@
+{
+    "hardware": {
+        "com_port": "COM3",
+        "baud_rate": 115200
+    },
+    "detection": {
+        "fov": 600,
+        "lower_color": [140, 110, 150],
+        "upper_color": [150, 195, 255],
+        "min_target_size": 15
+    },
+    "aim": {
+        "p_gain": 0.18,
+        "d_gain": 0.04,
+        "max_speed": 120,
+        "stickiness": 0.25,
+        "deadzone": 3
+    },
+    "performance": {
+        "fps": 200
+    }
+}
