@@ -25,7 +25,8 @@ Trying to create a more human-like colorbot, with overshooting/undershooting, os
        python main.py
        ```
 
-     
+     **Demo video**
+   https://youtu.be/p9eITEym5O0
 
 
 
