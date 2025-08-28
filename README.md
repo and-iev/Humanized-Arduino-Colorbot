@@ -2,7 +2,7 @@
 **This was never meant to be undetected, and I do not condone any use for gaining an unfair advantage in video games.**
 
 # Goal
-Trying to create a more human-like color-based guided aim tool, with overshooting/undershooting, oscillation, and human like target prioritization with a completely external, hardware-based mouse movement method. Attempts at humanization were achieved through different mathematical and physial applications some of which include moments of centers of mass, proportional gain, and derivative gain.
+Trying to create a more human-like color-based guided aim tool, with overshooting/undershooting, oscillation, and human like target prioritization with a completely external, hardware-based mouse movement method. Attempts at humanization were achieved through different mathematical and physical applications some of which include moments of centers of mass, proportional gain, and derivative gain.
 
  ## Pre-Setup intstructions
  - You will need an Arduino Leonardo as well as a USB hostshield
